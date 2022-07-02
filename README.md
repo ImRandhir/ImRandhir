@@ -8,4 +8,4 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImRandhir&langs_count=6&hide=makefile,nesc,cmake,qmake&hide_border=false&title_color=13EF3B&layout=compact&bg_color=151515&text_color=ffffff">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImRandhir&langs_count=6&hide=makefile,nesc,cmake,qmake&hide_border=false&title_color=13EF3B&show_icons=true&layout=compact&bg_color=151515&text_color=ffffff">
