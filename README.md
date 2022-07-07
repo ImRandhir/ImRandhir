@@ -9,7 +9,7 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImRandhir&langs_count=6&hide=makefile,nesc,cmake,qmake&hide_border=false&title_color=13EF3B&show_icons=true&layout=compact&bg_color=000000&text_color=ffffff%22">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImRandhir&langs_count=6&hide=makefile,nesc,cmake,qmake&hide_border=false&title_color=13EF3B&show_icons=true&layout=compact&bg_color=000000&text_color=daf7dc">
 
 
 
