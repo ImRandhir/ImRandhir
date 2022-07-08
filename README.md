@@ -1,7 +1,7 @@
 ### Hola, I'm Randhir! 👋
 
 
-- 🌱 I’m currently learning Android Jetpack.
+- 🌱 I’m currently learning Jetpack Compose.
 - 💬 Ask me about Android Studio , Java , Kotlin , XML , Android Jetpack.
 - 📫 Reach me at: randhir@iitk.ac.in
 
