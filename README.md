@@ -9,9 +9,9 @@
  
 <img src="androidlogo.png" width="100">
 
-<img src="javalogo.png" width="70">
+<img src="javalogo.png" width="55">
 
-<img src="kotlinlogo.png" width="80">
+<img src="kotlinlogo.png" width="70">
   
 </p>  
 
