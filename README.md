@@ -11,7 +11,7 @@
 
 <img src="javalogo.png" width="70">
 
-<img src="kotlinlogo.png" width="100">
+<img src="kotlinlogo.png" width="80">
   
 </p>  
 
