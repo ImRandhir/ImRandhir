@@ -6,7 +6,7 @@
 - 📫 Reach me at: **randhir@iitk.ac.in**
 
 
-<img src="androidlogo.png" width="200">
+<img src="androidlogo.png" width="100">
 
 <img src="https://github-readme-stats.vercel.app/api?username=ImRandhir&&show_icons=true&title_color=13EF3B&icon_color=13EF3B&text_color=daf7dc&bg_color=000000">
 
