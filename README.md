@@ -1,4 +1,4 @@
-### Hola, I'm Randhir! 👋 
+## Hola, I'm **RANDHIR**! 👋 
 
 
 - 🌱 I’m currently learning **Jetpack Compose**.
