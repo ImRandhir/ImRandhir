@@ -1,4 +1,5 @@
-## Hola, I'm **Randhir**! 👋 
+<div align="center">## Hola, I'm **Randhir**! 👋 </div>
+
 
 
 - 🌱 I’m currently learning **Jetpack Compose**.
