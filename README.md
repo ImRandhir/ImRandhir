@@ -1,4 +1,4 @@
-### Hola, I'm Randhir! 👋 - A Passionate Android Developer
+### Hola, I'm Randhir! 👋 
 
 
 - 🌱 I’m currently learning **Jetpack Compose**.
